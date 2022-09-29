@@ -1,1 +1,1 @@
-priny("Hello world")
+print("Hello world")
